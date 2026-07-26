@@ -1,6 +1,6 @@
 # SleepSentrix
 
-![NeerMai Valam Logo](images/logo.png)
+![NeerMai Valam Logo](images/sleepsentrix.png)
 
 ## An IoT-Based Smart Ankle Band for Sleepwalking Detection
 
